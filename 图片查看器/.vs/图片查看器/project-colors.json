@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4fda275d-27e5-4c83-984b-7b867d143b58": {
+      "ProjectGuid": "4fda275d-27e5-4c83-984b-7b867d143b58",
+      "DisplayName": "图片查看器",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+D:\腾飞\图片查看器\图片查看器\bin\Debug\图片查看器.exe.config
+D:\腾飞\图片查看器\图片查看器\bin\Debug\图片查看器.exe
+D:\腾飞\图片查看器\图片查看器\bin\Debug\图片查看器.pdb
+D:\腾飞\图片查看器\图片查看器\obj\Debug\图片查看器.csproj.AssemblyReference.cache
+D:\腾飞\图片查看器\图片查看器\obj\Debug\图片查看器.csproj.SuggestedBindingRedirects.cache
+D:\腾飞\图片查看器\图片查看器\obj\Debug\图片查看器.Form1.resources
+D:\腾飞\图片查看器\图片查看器\obj\Debug\图片查看器.Properties.Resources.resources
+D:\腾飞\图片查看器\图片查看器\obj\Debug\图片查看器.csproj.GenerateResource.cache
+D:\腾飞\图片查看器\图片查看器\obj\Debug\图片查看器.csproj.CoreCompileInputs.cache
+D:\腾飞\图片查看器\图片查看器\obj\Debug\图片查看器.exe
+D:\腾飞\图片查看器\图片查看器\obj\Debug\图片查看器.pdb
